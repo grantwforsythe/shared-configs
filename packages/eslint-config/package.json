@@ -1,0 +1,26 @@
+{
+  "name": "@grantwforsythe/eslint-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Grant Forsythe <grantwforsythe@gmail.com>",
+  "homepage": "https://github.com/grantwforsythe/shared-configs#readme",
+  "license": "MIT",
+  "main": "lib/eslint-config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantwforsythe/shared-configs.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/eslint-config.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/grantwforsythe/shared-configs/issues"
+  }
+}

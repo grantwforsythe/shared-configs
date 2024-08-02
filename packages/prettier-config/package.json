@@ -1,0 +1,15 @@
+{
+  "name": "@grantwforsythe/prettier-config",
+  "version": "0.0.0",
+  "author": "Grant Forsythe <grantwforsythe@gmail.com>",
+  "homepage": "https://github.com/grantwforsythe/shared-configs#readme",
+  "license": "MIT",
+  "main": ".prettierrc.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantwforsythe/shared-configs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grantwforsythe/shared-configs/issues"
+  }
+}
